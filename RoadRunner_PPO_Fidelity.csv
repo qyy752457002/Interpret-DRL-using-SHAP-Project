@@ -1,0 +1,4 @@
+Model,Average Fidelity
+Decision Tree,0.724159124529308
+Linear Regression,0.47594776994813226
+Logistic Regression,0.7503603771581047
