@@ -1,0 +1,51 @@
+Timestamp,Participant ID (you can use initials or any identifier),  Education Level  ,Background in Reinforcement Learning (RL)  ,Q1,Q2,Q3,Q4,Decision Tree,Q1 Estimated Time Cost (s),Q2 Estimated Time Cost (s),Q3 Estimated Time Cost (s),Q4 Estimated Time Cost (s)
+27/10/2025 15:14,Lz,PhD,No prior experience,Class 6,Class 7,Class 5,Class 5,5. Very High Trust,14,16,12,18
+28/10/2025 11:28,20251028,Master,Some experience,Class 6,Class 7,Class 6,Class 6,4. High Trust,10,12,8,14
+12/11/2025 1:47,BL,Master,Basic familiarity,Class 6,Class 7,Class 6,Class 6,4. High Trust,46,42,36,40
+12/11/2025 10:43,714,PhD,Some experience,Class 6,Class 7,Class 6,Class 6,4. High Trust,15,20,20,15
+12/11/2025 19:38,Cen,Master,No prior experience,Class 6,Class 7,Class 6,Class 6,3. Neutral,10,10,10,10
+15/11/2025 19:05,Neo,Master,Basic familiarity,Class 6,Class 7,Class 6,Class 5,4. High Trust,12,11,12,13
+17/11/2025 15:49,Vivian,PhD,No prior experience,Class 6,Class 7,Class 6,Class 6,3. Neutral,42,36,42,46
+8/12/2025 9:48,Jiaheng Wei,PhD,Some experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,30,10,20,10
+8/12/2025 12:18,X,PhD,No prior experience,Class 6,Class 7,Class 6,Class 6,3. Neutral,300,60,30,30
+8/12/2025 14:23,zmec008,Master,Basic familiarity,Class 6,Class 6,Class 7,Class 5,5. Very High Trust,10,2,4,3
+17/12/2025 18:16,yann,PhD,Basic familiarity,Class 6,Class 7,Class 6,Class 6,4. High Trust,10,2,1,1
+28/12/2025 18:46,lrg,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 6,4. High Trust,8,7,9,6
+28/12/2025 18:58,hxl,PhD,Extensive experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,8,9,10,7
+28/12/2025 19:02,zyf,Master,Some experience,Class 6,Class 7,Class 6,Class 6,4. High Trust,10,11,12,9
+28/12/2025 19:07,whr,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,13,14,15,11
+28/12/2025 19:28,lmx,Undergraduate,Some experience,Class 6,Class 7,Class 6,Class 6,4. High Trust,18,20,22,20
+28/12/2025 19:33,ltt,Undergraduate,Some experience,Class 6,Class 7,Class 6,Class 6,4. High Trust,12,24,28,18
+28/12/2025 19:57,at,PhD,Extensive experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,9,10,11,8
+28/12/2025 19:58,zxb,Undergraduate,Basic familiarity,Class 6,Class 8,Class 6,Class 6,5. Very High Trust,11.3,16,13.6,13.9
+28/12/2025 20:00,chen,Master,Some experience,Class 6,Class 8,Class 6,Class 6,5. Very High Trust,17.5,20.5,18.5,16.6
+28/12/2025 20:01,alex,Master,Some experience,Class 6,Class 7,Class 7,Class 6,4. High Trust,16.4,18.5,22.3,18
+28/12/2025 20:03,wmy,Undergraduate,Basic familiarity,Class 5,Class 7,Class 6,Class 6,5. Very High Trust,12.6,12.6,12,10.5
+28/12/2025 20:04,liu,Undergraduate,Basic familiarity,Class 6,Class 5,Class 6,Class 6,5. Very High Trust,20.7,23.2,18,17
+28/12/2025 20:05,tom,Master,Some experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,12.5,10,9,11.1
+28/12/2025 20:07,yuhan,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 5,5. Very High Trust,16,15,18.7,23
+28/12/2025 20:09,eric,PhD,Extensive experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,8.2,6.2,7,8
+28/12/2025 20:10,zyy,Undergraduate,No prior experience,Class 6,Class 7,Class 6,Class 8,4. High Trust,27,25,24,30
+28/12/2025 20:13,mark,Master,Some experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,12.4,10.6,11.5,12.4
+28/12/2025 20:23,qing,Undergraduate,Basic familiarity,Class 5,Class 7,Class 6,Class 6,5. Very High Trust,24,16,17,19
+28/12/2025 20:24,anna,Master,Some experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,9.8,15.6,11,12
+28/12/2025 20:25,hxr,Undergraduate,Basic familiarity,Class 6,Class 7,Class 5,Class 6,4. High Trust,15.6,18.7,22,18
+28/12/2025 20:26,kevin,Master,Extensive experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,8.2,8,6.9,8
+28/12/2025 20:28,lin,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,16,19,15,15.6
+28/12/2025 20:29,lucas,PhD,Extensive experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,5.9,7.2,6.4,8.5
+28/12/2025 20:30,yong,Undergraduate,Some experience,Class 5,Class 7,Class 6,Class 6,4. High Trust,18,10,13.2,11
+28/12/2025 20:31,peterA,Master,Some experience,Class 6,Class 7,Class 8,Class 6,5. Very High Trust,10,12,17,12
+28/12/2025 20:32,ysq,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,17,21,18,15
+28/12/2025 20:33,ivan,Master,Extensive experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,8,7,6,8
+28/12/2025 20:34,ming,Undergraduate,No prior experience,Class 7,Class 7,Class 6,Class 6,3. Neutral,31,24,23,25
+28/12/2025 20:35,sophie,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 6,4. High Trust,16,20,17,18
+28/12/2025 20:36,zhang,Undergraduate,Some experience,Class 6,Class 7,Class 6,Class 7,4. High Trust,12.1,10.5,11.6,16.7
+28/12/2025 20:38,david,PhD,Some experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,10.7,11.2,10.1,11.8
+28/12/2025 20:39,ran,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 6,4. High Trust,22,20,17,15.8
+28/12/2025 20:40,emma,Master,Some experience,Class 8,Class 7,Class 6,Class 6,5. Very High Trust,18.4,11.7,12.7,10
+28/12/2025 20:41,xw,Master,Some experience,Class 8,Class 7,Class 6,Class 6,5. Very High Trust,18.4,11.7,12,11
+28/12/2025 20:42,jason,Master,Some experience,Class 6,Class 7,Class 6,Class 5,4. High Trust,24.2,24,23,30
+28/12/2025 20:44,lei-L,Undergraduate,Basic familiarity,Class 6,Class 7,Class 8,Class 6,5. Very High Trust,17,17,22,16
+28/12/2025 20:45,nancy,PhD,Extensive experience,Class 6,Class 7,Class 6,Class 6,5. Very High Trust,5.9,7,6.4,7.6
+28/12/2025 20:47,Hao-Y,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 8,4. High Trust,23.1,22.6,17.9,22.8
+28/12/2025 20:49,zmj,Undergraduate,Basic familiarity,Class 6,Class 7,Class 6,Class 6,4. High Trust,9.4,11.2,13.8,10.6

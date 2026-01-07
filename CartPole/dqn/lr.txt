@@ -1,0 +1,1 @@
+f(x) = 5.94e-01 + 1.46e+00·cart_position + 1.28e+00·cart_velocity + 3.93e+00·pole_angle + 2.65e+00·pole_angular_velocity
