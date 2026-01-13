@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas
+scipy
+matplotlib
+sympy
+gymnasium[atari,accept-rom-license]
+ale-py
+stable-baselines3
+torch
+torchvision
+scikit-learn
+shap
+opencv-python
+ipython
